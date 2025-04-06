@@ -2,7 +2,7 @@
 
 💡 **Data & Design Automation — Simplified for Everyday Use**
 
-I build:
+### 🏗 I build:
 - ⚙️ Smart **HTML tools** for productivity  
 - 📊 Interactive **Power BI Dashboards**  
 - 🧩 Efficient **VBA automation scripts**
